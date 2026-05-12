@@ -1,3 +1,3 @@
-# Webpack Template
+# Project: Todo List
 
-run npm install
+A dynamic JavaScript web application for managing tasks and projects with persistent storage.
