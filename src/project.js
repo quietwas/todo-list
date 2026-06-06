@@ -1,6 +1,6 @@
-import "./todo.js"
+import Todo from "./todo.js"
 
-class Project {
+export default class Project {
     constructor(title){
         this.title = title
         this.todos = []
