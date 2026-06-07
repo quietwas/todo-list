@@ -1,1 +1,1 @@
-import "./load.js"
+import "./load.js";

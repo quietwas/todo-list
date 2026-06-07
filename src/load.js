@@ -1,4 +1,4 @@
-import "./styles.css"
+import "./styles.css";
 
-const body = document.querySelector("body")
-body.style.display = "block"
+const body = document.querySelector("body");
+body.style.display = "block";
